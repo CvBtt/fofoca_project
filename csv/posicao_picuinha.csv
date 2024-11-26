@@ -1,0 +1,27 @@
+Nome;Posicao1;Posicao2;Posicao3;Posicao4;Posicao5;Conflito
+Bia;Libero;Null;Null;Null;Null;Null
+Helo;Saida;Ponta;Null;Null;Null;Null
+Vini;Meio;Saida;Levantador;Ponta;Null;Null
+Dimitri;Ponta;Saida;Null;Null;Null;Null
+Caio;Ponta;Saida;Null;Null;Null;Null
+Rafael;Saida;Ponta;Meia;Null;Null;Null
+Vitor;Ponta;Meio;Null;Null;Null;Null
+Pedro;Meio;Ponta;Saida;Null;Null;Dimitri
+Ballogh;Libero;Null;Null;Null;Null;Dimitri
+Gustavo;Ponta;Meio;Null;Null;Null;Null
+Ane;Ponta;Saida;Libero;Null;Null;Gui/Mari/Vini
+Miguel;Levantador;Null;Null;Null;Null;Null
+Cintra;Ponta;Null;Null;Null;Null;Ballogh/Vini
+Duda;Levantador;Null;Null;Null;Null;Null
+Lucas;Ponta;Saida;Null;Null;Null;Null
+Gui;Meio;Ponta;Null;Null;Null;Null
+Matheus Queiroz;Saida;Ponta;Null;Null;Null;Null
+Andre;Ponta;Null;Null;Null;Null;Null
+Mari;Levantador;Saida;Ponta;Null;Null;Null
+Julia;Libero;Null;Null;Null;Null;Null
+Gizzi;Ponta;Meio;Saida;Null;Null;Null
+Matheus Hashimoto;Ponta;Saida;Null;Null;Null;Null
+Lucca;Saida;Ponta;Null;Null;Null;Null
+Tiago;Saida;Ponta;Null;Null;Null;Null
+
+
